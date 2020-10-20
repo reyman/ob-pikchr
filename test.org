@@ -7,3 +7,6 @@ arrow right 200% "Markdown" "Source"
    arrow <-> down 70% from last box.s
    box same "Pikchr" "Formatter" "(pikchr.c)" fit
 #+END_SRC
+
+#+RESULTS:
+[[file:test.svg]]
